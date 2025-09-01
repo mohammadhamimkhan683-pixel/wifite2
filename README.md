@@ -1,4 +1,5 @@
 Wifite
+
 ======
 
 This repo is a complete re-write of [`wifite`](https://github.com/derv82/wifite), a Python script for auditing wireless networks.
